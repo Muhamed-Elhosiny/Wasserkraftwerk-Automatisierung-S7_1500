@@ -4,6 +4,8 @@
 
 ## 🔹 Projektübersicht
 
+![image](https://github.com/user-attachments/assets/d1d627d8-9ff7-4903-8603-8c70b36f63f2)
+
 Dieses Projekt simuliert ein einfaches **Wasserkraftwerk**, das mit einer SPS-Steuerung betrieben wird.\
 Das Ziel ist es, ein Steuerungssystem zu entwickeln, das:
 
@@ -126,10 +128,7 @@ Das Ziel ist es, ein Steuerungssystem zu entwickeln, das:
 | **Alarmverwaltung**    | Alarmhistorie, Reset- & Stummschaltoptionen        |
 | **IO / HOA-Steuerung** | Manuelle Bedienung und Setpoints für analoge Werte |
 
----
 
-✅ **Dieses Projekt kann als Demonstration für SPS- und HMI-Entwicklung verwendet werden!**\
-📌 **Bereit für den Upload auf GitHub als ********`README.md`********.** 🎉
 
 
 
