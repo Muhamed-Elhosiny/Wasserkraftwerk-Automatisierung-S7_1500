@@ -129,6 +129,34 @@ Das Ziel ist es, ein Steuerungssystem zu entwickeln, das:
 | **IO / HOA-Steuerung** | Manuelle Bedienung und Setpoints für analoge Werte |
 
 
+📂 Wasserkraftwerk_TIA_Portal
+ ┣ 📂 PLC_Tags
+ ┣ 📂 IO_Processing
+ ┃ ┣ 📂 LAD (FB2, DB5)
+ ┃ ┣ 📂 FBD (FB3, DB6)
+ ┃ ┣ 📂 SCL (FB4, DB7)
+ ┃ ┗ 📂 STL (FB5, DB8)
+ ┣ 📂 Alarms
+ ┃ ┣ 📂 LAD (FB6, DB9)
+ ┃ ┣ 📂 FBD (FB11, DB14)
+ ┃ ┣ 📂 SCL (FB12, DB15)
+ ┃ ┗ 📂 STL (FB13, DB16)
+ ┣ 📂 HOA_Control
+ ┃ ┣ 📂 LAD (FB8, DB10)
+ ┃ ┣ 📂 FBD (FB7, DB11)
+ ┃ ┣ 📂 SCL (FB9, DB12)
+ ┃ ┗ 📂 STL (FB10, DB13)
+ ┣ 📂 Modes_Handling
+ ┃ ┣ 📂 LAD (FB14, DB2)
+ ┃ ┣ 📂 FBD (FB15, DB4)
+ ┃ ┣ 📂 SCL (FB16, DB44)
+ ┃ ┗ 📂 STL (FB17, DB45)
+ ┣ 📂 Other_Functions
+ ┃ ┣ 📜 SCP (FC1)
+ ┃ ┣ 📜 CONVERTTIME (FC2)
+ ┃ ┣ 📜 SEQUENCE (FB18, DB58)
+ ┃ ┣ 📜 PID (OB31)
+ ┃ ┣ 📂 Hourmeter (FB19-22, DB61-64)
 
 
 
