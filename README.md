@@ -129,6 +129,12 @@ Das Ziel ist es, ein Steuerungssystem zu entwickeln, das:
 | **IO / HOA-Steuerung** | Manuelle Bedienung und Setpoints für analoge Werte |
 
 
+![image](https://github.com/user-attachments/assets/307e96fa-619e-4054-8e07-770b6a624cc5)
+
+![image](https://github.com/user-attachments/assets/dcd15870-4600-4b0e-9e62-fd74444e803a)
+
+![image](https://github.com/user-attachments/assets/815a32e4-dc5a-48b1-ba39-3d7c1f3f7a0b)
+
 
 
  
