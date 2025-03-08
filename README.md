@@ -142,5 +142,15 @@ Das Ziel ist es, ein Steuerungssystem zu entwickeln, das:
 
 # Eingänge /Ausgänge  (E/A)
 
+## 📌 Notiz
+Die erste Implementierung erfolgt in **Ladder Diagram (LAD)**, da diese grafische Programmiersprache weit verbreitet ist und sich besonders für **logische Steuerungen und Ein-/Ausgangsoperationen** eignet.  
+In diesem Abschnitt werden die **Hauptfunktionen des Wasserkraftwerks** mithilfe von **Schütz- und Relaislogik** umgesetzt.
+
+## 📌 Notiz
+Falls jemand die **Ladder-Taste** drückt oder die Zahl außerhalb des Bereichs von **1 bis 4** liegt, dann **setze eine Eins**.
+
+![image](https://github.com/user-attachments/assets/d51ff582-9ede-43ca-a476-1f5d8e749de3)
+
+
 
  
