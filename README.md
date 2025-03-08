@@ -137,7 +137,7 @@ Das Ziel ist es, ein Steuerungssystem zu entwickeln, das:
 
 ![image](https://github.com/user-attachments/assets/bf012702-e49d-446b-b8e3-9c58ce07a507)
 
-![image](https://github.com/user-attachments/assets/d01d9ff4-a9ca-4a7b-8987-e0d9e2a9fe18)
+![image](https://github.com/user-attachments/assets/d01d9ff4-a9ca-4a7b-8987-e0d9e2a9fe18) 
 
 
 
