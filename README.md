@@ -184,6 +184,30 @@ Hier werden **digitale und analoge Signale** entsprechend der Steuerungslogik ve
 
 ![image](https://github.com/user-attachments/assets/c025f0b2-07ad-40ce-b700-5c01109949cf)
 
+## 🔹 Netzwerk 2: Analoge Ausgänge  
+In diesem Netzwerk werden die **analogen Ausgänge** für die Steuerung der Prozesse gesetzt.  
+Hierzu gehören:  
+
+- **Oilpump_VFD** → Steuert die Frequenz des **Ölpumpen-VFDs** zur Anpassung des Ölflusses.  
+- **Baffle_Out** → Regelt die **Drosselklappenposition** zur Steuerung des Wasserflusses.  
+
+Die Werte werden über **Analogsignale (0-27648)** an die Aktoren ausgegeben.
+
+![image](https://github.com/user-attachments/assets/e2f00f63-03a9-41e0-887c-9922d5954c1b)
+
+## 🔹 Netzwerk 3: Analoge Eingänge  
+Dieses Netzwerk verarbeitet die **analogen Eingangssignale**, um Messwerte aus der Anlage zu erfassen.  
+[SOTIF Requirements for Level 5 Autonomous Vehicle under Challenging Weather Conditions.pdf](https://github.com/user-attachments/files/19143621/SOTIF.Requirements.for.Level.5.Autonomous.Vehicle.under.Challenging.Weather.Conditions.pdf)
+
+- **Temp_Sensor** → Liest die **Öltemperatur** im Bereich **0 bis 500°C** ein.  
+- Die Temperatur kann als **Real-Wert** gespeichert werden, jedoch wird sie hier zur **Vereinfachung als Integer** behandelt.  
+
+Die Skalierung erfolgt auf **0-27648** für eine 16-Bit-Auflösung.
+
+
+
+
+
 
 
 
