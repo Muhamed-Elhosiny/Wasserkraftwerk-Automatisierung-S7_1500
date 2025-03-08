@@ -174,6 +174,17 @@ Nun wird der **Programmbaustein (IO_STL_DB)** jedes Mal aufgerufen, wenn die **P
 ![image](https://github.com/user-attachments/assets/4c0824b4-825e-43c0-ad45-e226828caa24)
 
 
+## IO_LAD [FB2]  (Eingangs- und Ausgangssignale)
+
+Hier werden **digitale und analoge Signale** entsprechend der Steuerungslogik verarbeitet und weitergeleitet. 
+
+## 🔹 Netzwerk 1: Digitale Ausgänge  
+
+![image](https://github.com/user-attachments/assets/893d624a-9239-4f4a-b7e9-b357307a4cfc)
+
+![image](https://github.com/user-attachments/assets/c025f0b2-07ad-40ce-b700-5c01109949cf)
+
+
 
 
  
