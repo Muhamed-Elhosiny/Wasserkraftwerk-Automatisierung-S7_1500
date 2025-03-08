@@ -149,9 +149,30 @@ In diesem Abschnitt werden die **Hauptfunktionen des Wasserkraftwerks** mithilfe
 ## 📌 Main [OB1]
 Falls jemand die **Ladder-Taste** drückt oder die Zahl außerhalb des Bereichs von **1 bis 4** liegt, dann **setze eine Eins**.
 
-![image](https://github.com/user-attachments/assets/d51ff582-9ede-43ca-a476-1f5d8e749de3)
 
 ![image](https://github.com/user-attachments/assets/6cfaddd5-f1c4-477e-80fa-84be9e56df82)
+
+## 📌 Notiz  
+Nun wird der **Programmbaustein (IO_LAD_DB_1)** jedes Mal aufgerufen, wenn die **Programmiersprache gleich 1** ist.  
+In unserem **Main-Programm** rufen wir verschiedene **Datenbausteine (DBs)** auf, wie **IO, ALARMS und HOAs**, für jede Sprache.
+
+![image](https://github.com/user-attachments/assets/ccbc6bff-221f-4645-9267-b2744a3b3e34)
+
+## 📌 Notiz  
+Nun wird der **Programmbaustein (IO_FBD_DB)** jedes Mal aufgerufen, wenn die **Programmiersprache gleich 2** ist.
+
+![image](https://github.com/user-attachments/assets/dfe31d1b-6bc9-47ba-8486-0b3ba9089846)
+
+## 📌 Notiz  
+Nun wird der **Programmbaustein (IO_SCL_DB)** jedes Mal aufgerufen, wenn die **Programmiersprache gleich 3** ist.
+
+![image](https://github.com/user-attachments/assets/86f4b62e-b04d-41bb-8e1f-1ca9f16ba819)
+
+## 📌 Notiz  
+Nun wird der **Programmbaustein (IO_STL_DB)** jedes Mal aufgerufen, wenn die **Programmiersprache gleich 4** ist.
+
+![image](https://github.com/user-attachments/assets/4c0824b4-825e-43c0-ad45-e226828caa24)
+
 
 
 
