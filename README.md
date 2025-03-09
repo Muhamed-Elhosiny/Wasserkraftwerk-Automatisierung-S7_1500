@@ -203,6 +203,28 @@ Dieses Netzwerk verarbeitet die **analogen Eingangssignale**, um Messwerte aus d
 
 Die Skalierung erfolgt auf **0-27648** für eine 16-Bit-Auflösung.
 
+![image](https://github.com/user-attachments/assets/5079f831-d847-4cf9-af41-11fa0dc18ea6)
+
+## 📄 Vollständige Programmdokumentation (PDF)  
+
+Um die GitHub-Seite übersichtlich zu halten, enthält diese PDF-Datei die vollständige Programmdokumentation:  
+
+✅ **Komplette Steuerungssequenz in vier SPS-Sprachen:**  
+   - Ladder Diagram (LAD)  
+   - Statement List (STL)  
+   - Function Block Diagram (FBD)  
+   - Structured Control Language (SCL)  
+
+✅ **PID-Regelung**  
+   - Implementierung und Funktionsweise der PID-Steuerung im System  
+
+✅ **WINCC HMI-Visualisierung**  
+   - Beschreibung der HMI-Oberfläche mit Visualisierung der Prozessdaten  
+
+Diese PDF ermöglicht einen **kompletten Überblick über das Steuerungssystem**, ohne die GitHub-Seite zu überladen.  
+
+## 📄 Vollständige Programmdokumentation (PDF) :
+
 [Wasserkraftwerk-Automatisierung-S7_1500.pdf](https://github.com/user-attachments/files/19148915/Wasserkraftwerk-Automatisierung-S7_1500.pdf)
 
 
