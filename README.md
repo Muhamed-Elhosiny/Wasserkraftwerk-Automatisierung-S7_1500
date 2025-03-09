@@ -197,12 +197,13 @@ Die Werte werden über **Analogsignale (0-27648)** an die Aktoren ausgegeben.
 
 ## 🔹 Netzwerk 3: Analoge Eingänge  
 Dieses Netzwerk verarbeitet die **analogen Eingangssignale**, um Messwerte aus der Anlage zu erfassen.  
-[SOTIF Requirements for Level 5 Autonomous Vehicle under Challenging Weather Conditions.pdf](https://github.com/user-attachments/files/19143621/SOTIF.Requirements.for.Level.5.Autonomous.Vehicle.under.Challenging.Weather.Conditions.pdf)
 
 - **Temp_Sensor** → Liest die **Öltemperatur** im Bereich **0 bis 500°C** ein.  
 - Die Temperatur kann als **Real-Wert** gespeichert werden, jedoch wird sie hier zur **Vereinfachung als Integer** behandelt.  
 
 Die Skalierung erfolgt auf **0-27648** für eine 16-Bit-Auflösung.
+
+[Wasserkraftwerk-Automatisierung-S7_1500.pdf](https://github.com/user-attachments/files/19148915/Wasserkraftwerk-Automatisierung-S7_1500.pdf)
 
 
 
