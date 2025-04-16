@@ -119,7 +119,7 @@ Das Ziel ist es, ein Steuerungssystem zu entwickeln, das:
 
 ---
 
-## 🎛 HMI (Bedienoberfläche)
+## HMI (Bedienoberfläche)
 
 | **HMI-Bildschirm**     | **Funktion**                                       |
 | ---------------------- | -------------------------------------------------- |
