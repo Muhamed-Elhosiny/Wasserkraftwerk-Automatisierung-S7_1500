@@ -1,6 +1,6 @@
 # Wasserkraftwerk-Automatisierung-S7_1500
 
-# 📂 Wasserkraftwerk Projekt (TIA Portal)
+# Wasserkraftwerk Projekt (TIA Portal)
 
 ## 🔹 Projektübersicht
 
@@ -16,7 +16,7 @@ Das Ziel ist es, ein Steuerungssystem zu entwickeln, das:
 
 ---
 
-## 🔧 Funktionsweise
+## Funktionsweise
 
 - Der **Fluss** ändert regelmäßig seine Geschwindigkeit.
 - Ein **Baffle (Drosselklappe)** steuert den **Wasserfluss** mit einem **Servomotor (4-20 mA Signal)**.
@@ -86,9 +86,9 @@ Das Ziel ist es, ein Steuerungssystem zu entwickeln, das:
 
 ---
 
-## 🔄 Betriebsmodi & Ablaufsteuerung
+## Betriebsmodi & Ablaufsteuerung
 
-### 1️⃣ **Warmup**
+### 1️_**Warmup**
 
 - Rotor auf **20–50 U/min**
 - Ölpumpe auf **2–10 GPM**
